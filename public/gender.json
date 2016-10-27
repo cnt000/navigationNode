@@ -1,0 +1,846 @@
+{
+  "Genders": {
+    "Gender": [
+      {
+        "-code": "D",
+        "Label": [
+          {
+            "-idLanguage": "it",
+            "AgeRange": [
+              {
+                "-type": "default",
+                "#text": "donna"
+              },
+              {
+                "-type": "baby",
+                "#text": "bambina-baby"
+              },
+              {
+                "-type": "junior",
+                "#text": "bambina-junior"
+              },
+              {
+                "-type": "kid",
+                "#text": "bambina-kid"
+              },
+              {
+                "-type": "newborn",
+                "#text": "bambina-neonata"
+              }
+            ]
+          },
+          {
+            "-idLanguage": "en",
+            "AgeRange": [
+              {
+                "-type": "default",
+                "#text": "women"
+              },
+              {
+                "-type": "baby",
+                "#text": "girl-baby"
+              },
+              {
+                "-type": "junior",
+                "#text": "girl-junior"
+              },
+              {
+                "-type": "kid",
+                "#text": "girl-kid"
+              },
+              {
+                "-type": "newborn",
+                "#text": "girl-newborn"
+              }
+            ]
+          },
+          {
+            "-idLanguage": "fr",
+            "AgeRange": [
+              {
+                "-type": "default",
+                "#text": "femme"
+              },
+              {
+                "-type": "baby",
+                "#text": "fille-bébé"
+              },
+              {
+                "-type": "junior",
+                "#text": "fille-junior"
+              },
+              {
+                "-type": "kid",
+                "#text": "fille-enfant"
+              },
+              {
+                "-type": "newborn",
+                "#text": "fille-nouveau-né"
+              }
+            ]
+          },
+          {
+            "-idLanguage": "es",
+            "AgeRange": [
+              {
+                "-type": "default",
+                "#text": "mujer"
+              },
+              {
+                "-type": "baby",
+                "#text": "bebé-niña"
+              },
+              {
+                "-type": "junior",
+                "#text": "junior-niña"
+              },
+              {
+                "-type": "kid",
+                "#text": "niña-niña"
+              },
+              {
+                "-type": "newborn",
+                "#text": "recién-nacido-niña"
+              }
+            ]
+          },
+          {
+            "-idLanguage": "de",
+            "AgeRange": [
+              {
+                "-type": "default",
+                "#text": "für-sie"
+              },
+              {
+                "-type": "baby",
+                "#text": "mädchen-baby"
+              },
+              {
+                "-type": "junior",
+                "#text": "mädchen-kinder"
+              },
+              {
+                "-type": "kid",
+                "#text": "mädchen-junior"
+              },
+              {
+                "-type": "newborn",
+                "#text": "mädchen-neugeborene"
+              }
+            ]
+          },
+          {
+            "-idLanguage": "us",
+            "AgeRange": [
+              {
+                "-type": "default",
+                "#text": "women"
+              },
+              {
+                "-type": "baby",
+                "#text": "girl-baby"
+              },
+              {
+                "-type": "junior",
+                "#text": "girl-junior"
+              },
+              {
+                "-type": "kid",
+                "#text": "girl-kid"
+              },
+              {
+                "-type": "newborn",
+                "#text": "girl-newborn"
+              }
+            ]
+          },
+          {
+            "-idLanguage": "cn",
+            "AgeRange": [
+              {
+                "-type": "default",
+                "#text": "女士"
+              },
+              {
+                "-type": "baby",
+                "#text": "女婴服饰"
+              },
+              {
+                "-type": "junior",
+                "#text": "女孩服饰"
+              },
+              {
+                "-type": "kid",
+                "#text": "女童服饰"
+              },
+              {
+                "-type": "newborn",
+                "#text": "新生儿服饰"
+              }
+            ]
+          },
+          {
+            "-idLanguage": "jp",
+            "AgeRange": [
+              {
+                "-type": "default",
+                "#text": "レディース"
+              },
+              {
+                "-type": "baby",
+                "#text": "ベビー-ガールズ"
+              },
+              {
+                "-type": "junior",
+                "#text": "ジュニア-ガールズ"
+              },
+              {
+                "-type": "kid",
+                "#text": "キッズ-ガールズ"
+              },
+              {
+                "-type": "newborn",
+                "#text": "赤ちゃん-ガールズ"
+              }
+            ]
+          },
+          {
+            "-idLanguage": "ru",
+            "AgeRange": [
+              {
+                "-type": "default",
+                "#text": "для-женщин"
+              },
+              {
+                "-type": "baby",
+                "#text": "для-малышей-девочек"
+              },
+              {
+                "-type": "junior",
+                "#text": "для-девочек-подростков"
+              },
+              {
+                "-type": "kid",
+                "#text": "для-девочек"
+              },
+              {
+                "-type": "newborn",
+                "#text": "для-новорожденных-девочек"
+              }
+            ]
+          },
+          {
+            "-idLanguage": "kr",
+            "AgeRange": [
+              {
+                "-type": "default",
+                "#text": "여성"
+              },
+              {
+                "-type": "baby",
+                "#text": "베이비-여아"
+              },
+              {
+                "-type": "junior",
+                "#text": "주니어-여아"
+              },
+              {
+                "-type": "kid",
+                "#text": "키드-여아"
+              },
+              {
+                "-type": "newborn",
+                "#text": "신생아-여아"
+              }
+            ]
+          },
+          {
+            "-idLanguage": "gr",
+            "AgeRange": [
+              {
+                "-type": "default",
+                "#text": "γυναίκα"
+              },
+              {
+                "-type": "baby",
+                "#text": "βρέφος-κορίτσι"
+              },
+              {
+                "-type": "junior",
+                "#text": "junior-κορίτσι"
+              },
+              {
+                "-type": "kid",
+                "#text": "παιδί-κορίτσι"
+              },
+              {
+                "-type": "newborn",
+                "#text": "νεογέννητο-κορίτσι"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "-code": "U",
+        "Label": [
+          {
+            "-idLanguage": "it",
+            "AgeRange": [
+              {
+                "-type": "default",
+                "#text": "uomo"
+              },
+              {
+                "-type": "baby",
+                "#text": "bambino-baby"
+              },
+              {
+                "-type": "junior",
+                "#text": "bambino-junior"
+              },
+              {
+                "-type": "kid",
+                "#text": "bambino-kid"
+              },
+              {
+                "-type": "newborn",
+                "#text": "bambino-neonato"
+              }
+            ]
+          },
+          {
+            "-idLanguage": "en",
+            "AgeRange": [
+              {
+                "-type": "default",
+                "#text": "men"
+              },
+              {
+                "-type": "baby",
+                "#text": "boy-baby"
+              },
+              {
+                "-type": "junior",
+                "#text": "boy-junior"
+              },
+              {
+                "-type": "kid",
+                "#text": "boy-kid"
+              },
+              {
+                "-type": "newborn",
+                "#text": "boy-newborn"
+              }
+            ]
+          },
+          {
+            "-idLanguage": "fr",
+            "AgeRange": [
+              {
+                "-type": "default",
+                "#text": "homme"
+              },
+              {
+                "-type": "baby",
+                "#text": "garçon-bébé"
+              },
+              {
+                "-type": "junior",
+                "#text": "garçon-junior"
+              },
+              {
+                "-type": "kid",
+                "#text": "garçon-enfant"
+              },
+              {
+                "-type": "newborn",
+                "#text": "garçon-nouveau-né"
+              }
+            ]
+          },
+          {
+            "-idLanguage": "es",
+            "AgeRange": [
+              {
+                "-type": "default",
+                "#text": "hombre"
+              },
+              {
+                "-type": "baby",
+                "#text": "bebé-niño"
+              },
+              {
+                "-type": "junior",
+                "#text": "junior-niño"
+              },
+              {
+                "-type": "kid",
+                "#text": "niño-niño"
+              },
+              {
+                "-type": "newborn",
+                "#text": "recién-nacido-niño"
+              }
+            ]
+          },
+          {
+            "-idLanguage": "de",
+            "AgeRange": [
+              {
+                "-type": "default",
+                "#text": "für-ihn"
+              },
+              {
+                "-type": "baby",
+                "#text": "junge-baby"
+              },
+              {
+                "-type": "junior",
+                "#text": "junge-kinder"
+              },
+              {
+                "-type": "kid",
+                "#text": "junge-junior"
+              },
+              {
+                "-type": "newborn",
+                "#text": "junge-neugeborene"
+              }
+            ]
+          },
+          {
+            "-idLanguage": "us",
+            "AgeRange": [
+              {
+                "-type": "default",
+                "#text": "men"
+              },
+              {
+                "-type": "baby",
+                "#text": "boy-baby"
+              },
+              {
+                "-type": "junior",
+                "#text": "boy-junior"
+              },
+              {
+                "-type": "kid",
+                "#text": "boy-kid"
+              },
+              {
+                "-type": "newborn",
+                "#text": "boy-newborn"
+              }
+            ]
+          },
+          {
+            "-idLanguage": "cn",
+            "AgeRange": [
+              {
+                "-type": "default",
+                "#text": "男士"
+              },
+              {
+                "-type": "baby",
+                "#text": "男婴服饰"
+              },
+              {
+                "-type": "junior",
+                "#text": "男孩服饰"
+              },
+              {
+                "-type": "kid",
+                "#text": "男童服饰"
+              },
+              {
+                "-type": "newborn",
+                "#text": "新生儿服饰"
+              }
+            ]
+          },
+          {
+            "-idLanguage": "jp",
+            "AgeRange": [
+              {
+                "-type": "default",
+                "#text": "メンズ"
+              },
+              {
+                "-type": "baby",
+                "#text": "ベビー-ボーイズ"
+              },
+              {
+                "-type": "junior",
+                "#text": "ジュニア-ボーイズ"
+              },
+              {
+                "-type": "kid",
+                "#text": "キッド-ボーイズ"
+              },
+              {
+                "-type": "newborn",
+                "#text": "赤ちゃん-ボーイズ"
+              }
+            ]
+          },
+          {
+            "-idLanguage": "ru",
+            "AgeRange": [
+              {
+                "-type": "default",
+                "#text": "для-мужчин"
+              },
+              {
+                "-type": "baby",
+                "#text": "для-малышей-мальчиков"
+              },
+              {
+                "-type": "junior",
+                "#text": "для-мальчиков-подростков"
+              },
+              {
+                "-type": "kid",
+                "#text": "для-мальчиков"
+              },
+              {
+                "-type": "newborn",
+                "#text": "для-новорожденных-мальчиков"
+              }
+            ]
+          },
+          {
+            "-idLanguage": "kr",
+            "AgeRange": [
+              {
+                "-type": "default",
+                "#text": "남자"
+              },
+              {
+                "-type": "baby",
+                "#text": "베이비-남아"
+              },
+              {
+                "-type": "junior",
+                "#text": "주니어-남아"
+              },
+              {
+                "-type": "kid",
+                "#text": "키드-남아"
+              },
+              {
+                "-type": "newborn",
+                "#text": "신생아-남아"
+              }
+            ]
+          },
+          {
+            "-idLanguage": "gr",
+            "AgeRange": [
+              {
+                "-type": "default",
+                "#text": "άνθρωπος"
+              },
+              {
+                "-type": "baby",
+                "#text": "βρέφος-αγόρι"
+              },
+              {
+                "-type": "junior",
+                "#text": "junior-αγόρι"
+              },
+              {
+                "-type": "kid",
+                "#text": "παιδί-αγόρι"
+              },
+              {
+                "-type": "newborn",
+                "#text": "νεογέννητο-αγόρι"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "-code": "X",
+        "Label": [
+          {
+            "-idLanguage": "it",
+            "AgeRange": [
+              {
+                "-type": "default",
+                "#text": "unisex"
+              },
+              {
+                "-type": "baby",
+                "#text": "unisex-baby"
+              },
+              {
+                "-type": "junior",
+                "#text": "unisex-junior"
+              },
+              {
+                "-type": "kid",
+                "#text": "unisex-kid"
+              },
+              {
+                "-type": "newborn",
+                "#text": "unisex-neonato"
+              }
+            ]
+          },
+          {
+            "-idLanguage": "en",
+            "AgeRange": [
+              {
+                "-type": "default",
+                "#text": "unisex"
+              },
+              {
+                "-type": "baby",
+                "#text": "unisex-baby"
+              },
+              {
+                "-type": "junior",
+                "#text": "unisex-junior"
+              },
+              {
+                "-type": "kid",
+                "#text": "unisex-kid"
+              },
+              {
+                "-type": "newborn",
+                "#text": "unisex-newborn"
+              }
+            ]
+          },
+          {
+            "-idLanguage": "fr",
+            "AgeRange": [
+              {
+                "-type": "default",
+                "#text": "unisexe"
+              },
+              {
+                "-type": "baby",
+                "#text": "unisexe-bébé"
+              },
+              {
+                "-type": "junior",
+                "#text": "unisexe-junior"
+              },
+              {
+                "-type": "kid",
+                "#text": "unisexe-enfant"
+              },
+              {
+                "-type": "newborn",
+                "#text": "unisexe-nouveau-né"
+              }
+            ]
+          },
+          {
+            "-idLanguage": "es",
+            "AgeRange": [
+              {
+                "-type": "default",
+                "#text": "unisex"
+              },
+              {
+                "-type": "baby",
+                "#text": "unisex-bebé"
+              },
+              {
+                "-type": "junior",
+                "#text": "unisex-menor"
+              },
+              {
+                "-type": "kid",
+                "#text": "unisex-niño"
+              },
+              {
+                "-type": "newborn",
+                "#text": "unisex-nacido-niño"
+              }
+            ]
+          },
+          {
+            "-idLanguage": "de",
+            "AgeRange": [
+              {
+                "-type": "default",
+                "#text": "unisex"
+              },
+              {
+                "-type": "baby",
+                "#text": "unisex-baby"
+              },
+              {
+                "-type": "junior",
+                "#text": "unisex-kinder"
+              },
+              {
+                "-type": "kid",
+                "#text": "unisex-junior"
+              },
+              {
+                "-type": "newborn",
+                "#text": "unisex-neugeborene"
+              }
+            ]
+          },
+          {
+            "-idLanguage": "us",
+            "AgeRange": [
+              {
+                "-type": "default",
+                "#text": "unisex"
+              },
+              {
+                "-type": "baby",
+                "#text": "unisex-baby"
+              },
+              {
+                "-type": "junior",
+                "#text": "unisex-junior"
+              },
+              {
+                "-type": "kid",
+                "#text": "unisex-kid"
+              },
+              {
+                "-type": "newborn",
+                "#text": "unisex-newborn"
+              }
+            ]
+          },
+          {
+            "-idLanguage": "cn",
+            "AgeRange": [
+              {
+                "-type": "default",
+                "#text": "中性"
+              },
+              {
+                "-type": "baby",
+                "#text": "中性—婴儿服饰"
+              },
+              {
+                "-type": "junior",
+                "#text": "中性—幼儿服饰"
+              },
+              {
+                "-type": "kid",
+                "#text": "中性—儿童服饰"
+              },
+              {
+                "-type": "newborn",
+                "#text": "中性—新生儿服饰"
+              }
+            ]
+          },
+          {
+            "-idLanguage": "jp",
+            "AgeRange": [
+              {
+                "-type": "default",
+                "#text": "ユニセックス"
+              },
+              {
+                "-type": "baby",
+                "#text": "ユニセックス-ベビー"
+              },
+              {
+                "-type": "junior",
+                "#text": "ユニセックス-ジュニア"
+              },
+              {
+                "-type": "kid",
+                "#text": "ユニセックス-キッズ"
+              },
+              {
+                "-type": "newborn",
+                "#text": "ユニセックス-ベビー"
+              }
+            ]
+          },
+          {
+            "-idLanguage": "ru",
+            "AgeRange": [
+              {
+                "-type": "default",
+                "#text": "унисекс"
+              },
+              {
+                "-type": "baby",
+                "#text": "унисекс-для-малышей"
+              },
+              {
+                "-type": "junior",
+                "#text": "унисекс-для-подростков"
+              },
+              {
+                "-type": "kid",
+                "#text": "унисекс-для-детей"
+              },
+              {
+                "-type": "newborn",
+                "#text": "унисекс-для-новорожденных"
+              }
+            ]
+          },
+          {
+            "-idLanguage": "kr",
+            "AgeRange": [
+              {
+                "-type": "default",
+                "#text": "유니섹스"
+              },
+              {
+                "-type": "baby",
+                "#text": "유니섹스-베이비"
+              },
+              {
+                "-type": "junior",
+                "#text": "유니섹스-주니어"
+              },
+              {
+                "-type": "kid",
+                "#text": "유니섹스-키즈"
+              },
+              {
+                "-type": "newborn",
+                "#text": "유니섹스-신생아"
+              }
+            ]
+          },
+          {
+            "-idLanguage": "gr",
+            "AgeRange": [
+              {
+                "-type": "default",
+                "#text": "unisex"
+              },
+              {
+                "-type": "baby",
+                "#text": "βρέφος-unisex"
+              },
+              {
+                "-type": "junior",
+                "#text": "junior-unisex"
+              },
+              {
+                "-type": "kid",
+                "#text": "παιδί-unisex"
+              },
+              {
+                "-type": "newborn",
+                "#text": "νεογέννητο-unisex"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
